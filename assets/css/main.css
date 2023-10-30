@@ -53,6 +53,26 @@ header {
   color: #fff;
 }
 
+.hero {
+  height: 100%;
+  background-image: url(/assets/img/Hero.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 80% 80%;
+}
+.hero-gradient {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(0deg, #53354A 0%, rgba(83, 53, 74, 0.6) 60%, rgba(83, 53, 74, 0.01) 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 24px;
+  text-align: center;
+  padding: 40px 16px;
+}
+
 *,
 *::before,
 *::after {
