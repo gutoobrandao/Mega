@@ -1,0 +1,38 @@
+// Colors
+
+$c1: #CF2D2D;
+$c2: #53354A;
+$c3: #903749;
+$background-hero: linear-gradient(90deg, #53354A 0%, rgba(83, 53, 74, 0.65) 47.24%, rgba(83, 53, 74, 0.00) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat, #5B3E52;
+
+// Fonts
+
+$font:'Poppins', sans-serif;
+$h1: 600 4rem /1.2 $font;
+$h2: 600 3rem /1.2 $font;
+$h3: 600 2rem /1.2 $font;
+$h4: 600 1.5rem /1.2 $font;
+$h5: 600 1.125rem /1.2 $font;
+$h6: 600 1rem /1.2 $font;
+$body: 400 1rem /1.5 $font;
+$button: 900 1rem /1.5 $font;
+$caption: 400 1rem /1.5 $font;
+
+//Paddings and Margins
+
+$height-nav-icons: 24px;
+
+$padding-l: 48px;
+
+
+$padding-m: 24px;
+$padding-s: 16px;
+
+$margin-l: 48px;
+
+
+$margin-s: 8px;
+
+//Borders
+
+$border-radius-s: 8px;
