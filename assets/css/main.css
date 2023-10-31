@@ -123,4 +123,21 @@ h5 + *,
 h6 + *,
 p + * {
   margin-block-start: 1.5rem;
+}
+
+.button {
+  display: flex;
+  font: 900 1rem/1.5 "Poppins", sans-serif;
+  color: #fff;
+  padding: 12px 16px;
+  margin: 12px auto;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+.button-primary {
+  background-color: #CF2D2D;
+}
+.button-primary:hover {
+  background-color: #903749;
 }/*# sourceMappingURL=main.css.map */
