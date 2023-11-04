@@ -73,6 +73,38 @@ header {
   padding: 40px 16px;
 }
 
+main {
+  width: 100%;
+  display: flex;
+  padding: 126px 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 126px;
+  color: #53354A;
+}
+
+section {
+  padding: 0 16px;
+}
+
+.sobre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 48px;
+}
+.sobre-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 16px;
+}
+.sobre-card-icon {
+  fill: #CF2D2D;
+}
+
 *,
 *::before,
 *::after {
@@ -113,16 +145,6 @@ h6 {
 
 p {
   font: 400 1rem/1.5 "Poppins", sans-serif;
-}
-
-main > h1 + *,
-h2 + *,
-h3 + *,
-h4 + *,
-h5 + *,
-h6 + *,
-p + * {
-  margin-block-start: 1.5rem;
 }
 
 .button {

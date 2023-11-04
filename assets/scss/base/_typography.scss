@@ -31,13 +31,3 @@ h6 {
 p {
   font: a.$body;
 }
-
-main > h1 + *,
-h2 + *,
-h3 + *,
-h4 + *,
-h5 + *,
-h6 + *,
-p + * {
-  margin-block-start: 1.5rem;
-}
