@@ -44,7 +44,7 @@ header {
   box-shadow: 0 0 64px rgba(0, 0, 0, 0.6);
 }
 .nav-links a {
-  font: 600 1.125rem/1.2 "Poppins", sans-serif;
+  font: 600 1.5rem/1.2 "Poppins", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -170,27 +170,27 @@ html {
 }
 
 h1 {
-  font: 600 4rem/1.2 "Poppins", sans-serif;
+  font: 600 6rem/1.2 "Poppins", sans-serif;
 }
 
 h2 {
-  font: 600 3rem/1.2 "Poppins", sans-serif;
+  font: 600 4rem/1.2 "Poppins", sans-serif;
 }
 
 h3 {
-  font: 600 2rem/1.2 "Poppins", sans-serif;
+  font: 600 3rem/1.2 "Poppins", sans-serif;
 }
 
 h4 {
-  font: 600 1.5rem/1.2 "Poppins", sans-serif;
+  font: 600 2rem/1.2 "Poppins", sans-serif;
 }
 
 h5 {
-  font: 600 1.125rem/1.2 "Poppins", sans-serif;
+  font: 600 1.5rem/1.2 "Poppins", sans-serif;
 }
 
 h6 {
-  font: 600 1rem/1.2 "Poppins", sans-serif;
+  font: 600 1.25rem/1.2 "Poppins", sans-serif;
 }
 
 p {
